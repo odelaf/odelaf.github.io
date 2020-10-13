@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on odelaf</title>
-    <link>odelaf.github.io/categories/</link>
+    <link>https://odelaf.github.io/categories/</link>
     <description>Recent content in Categories on odelaf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2020 18:55:09 -0300</lastBuildDate><atom:link href="odelaf.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Oct 2020 18:55:09 -0300</lastBuildDate><atom:link href="https://odelaf.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>odelaf.github.io/categories/blog/</link>
+      <link>https://odelaf.github.io/categories/blog/</link>
       <pubDate>Mon, 12 Oct 2020 18:55:09 -0300</pubDate>
       
-      <guid>odelaf.github.io/categories/blog/</guid>
+      <guid>https://odelaf.github.io/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>manuscritos</title>
-      <link>odelaf.github.io/categories/manuscritos/</link>
+      <link>https://odelaf.github.io/categories/manuscritos/</link>
       <pubDate>Tue, 10 Apr 2018 08:12:39 -0300</pubDate>
       
-      <guid>odelaf.github.io/categories/manuscritos/</guid>
+      <guid>https://odelaf.github.io/categories/manuscritos/</guid>
       <description></description>
     </item>
     

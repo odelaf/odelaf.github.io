@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on odelaf</title>
+    <link>odelaf.github.io/blog/</link>
+    <description>Recent content in Blogs on odelaf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Oct 2020 18:55:09 -0300</lastBuildDate><atom:link href="odelaf.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los caminos del apruebo</title>
+      <link>odelaf.github.io/blog/caminos-apruebo/</link>
+      <pubDate>Mon, 12 Oct 2020 18:55:09 -0300</pubDate>
+      
+      <guid>odelaf.github.io/blog/caminos-apruebo/</guid>
+      <description>El comienzo Más allá de las consignas («no fueron 30 pesos, fueron 30 años») o las explicaciones sociológicas (modernidad vs desigualdad), creo posible interpretar lo que ha ocurrido en el último tiempo en Chile como un desgaste frente a la manera en que han sido tratados nuestros asuntos comunes. Me parece que, a estas alturas, no debiese ser controvertido observar que la ciudadanía no se reconoce en los resultados que ofrecen quienes se ocupan de los asuntos públicos.</description>
+    </item>
+    
+  </channel>
+</rss>

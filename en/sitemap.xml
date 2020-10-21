@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://odelaf.github.io/categories/blog/</loc>
+    <lastmod>2020-10-12T18:55:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://odelaf.github.io/blog/</loc>
+    <lastmod>2020-10-12T18:55:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://odelaf.github.io/categories/</loc>
+    <lastmod>2020-10-12T18:55:09-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://odelaf.github.io/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://odelaf.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://odelaf.github.io/blog/caminos-apruebo/</loc>
+    <lastmod>2020-10-12T18:55:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://odelaf.github.io/</loc>
+    <lastmod>2020-10-12T18:55:09-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://odelaf.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://odelaf.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://odelaf.github.io/tags/proceso-constituyente/</loc>
+    <lastmod>2020-10-12T18:55:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://odelaf.github.io/tags/</loc>
+    <lastmod>2020-10-12T18:55:09-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://odelaf.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://odelaf.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://odelaf.github.io/manuscritos/hidroaysen/</loc>
+    <lastmod>2018-04-10T08:12:39-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://odelaf.github.io/tags/comentarios-sentencias/</loc>
+    <lastmod>2018-04-10T08:12:39-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://odelaf.github.io/tags/derecho-ambiental/</loc>
+    <lastmod>2018-04-10T08:12:39-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://odelaf.github.io/manuscritos/</loc>
+    <lastmod>2018-04-10T08:12:39-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://odelaf.github.io/categories/manuscritos/</loc>
+    <lastmod>2018-04-10T08:12:39-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://odelaf.github.io/manuscritos/comentario-quintero/</loc>
+    <lastmod>2018-01-24T17:40:37-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://odelaf.github.io/tags/control-judicial/</loc>
+    <lastmod>2017-11-04T07:52:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://odelaf.github.io/manuscritos/invalidacion-ambiental/</loc>
+    <lastmod>2017-11-04T07:52:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://odelaf.github.io/publicaciones/</loc>
+  </url>
+  
+</urlset>

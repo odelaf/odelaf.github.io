@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>texto plano on odelaf</title>
+    <link>https://odelaf.github.io/tags/texto-plano/</link>
+    <description>Recent content in texto plano on odelaf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Nov 2020 08:22:03 -0300</lastBuildDate><atom:link href="https://odelaf.github.io/tags/texto-plano/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flujo de trabajo</title>
+      <link>https://odelaf.github.io/blog/workflow/</link>
+      <pubDate>Tue, 10 Nov 2020 08:22:03 -0300</pubDate>
+      
+      <guid>https://odelaf.github.io/blog/workflow/</guid>
+      <description>Ya sea por una tendencia irresistible a procrastinar o simplemente porque nos interesa ser más eficientes en nuestro trabajo, muchas veces usamos parte de nuestro tiempo buscando información sobre cómo organizar de manera eficiente nuestro trabajo. Quizás generalizo mi propia experiencia y mucha gente no lo ve necesario. He dedicado tiempo a estos asuntos y llegué a un punto donde me pareció necesario escribirlo para poder volver a mis hallazgos en caso de que sea necesario (mi memoria es frágil).</description>
+    </item>
+    
+  </channel>
+</rss>

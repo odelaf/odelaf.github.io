@@ -4,17 +4,17 @@
   
   <url>
     <loc>https://odelaf.github.io/categories/blog/</loc>
-    <lastmod>2020-10-12T18:55:09-03:00</lastmod>
+    <lastmod>2020-11-10T08:22:03-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://odelaf.github.io/blog/</loc>
-    <lastmod>2020-10-12T18:55:09-03:00</lastmod>
+    <lastmod>2020-11-10T08:22:03-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://odelaf.github.io/categories/</loc>
-    <lastmod>2020-10-12T18:55:09-03:00</lastmod>
+    <lastmod>2020-11-10T08:22:03-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -28,13 +28,13 @@
   </url>
   
   <url>
-    <loc>https://odelaf.github.io/blog/caminos-apruebo/</loc>
-    <lastmod>2020-10-12T18:55:09-03:00</lastmod>
+    <loc>https://odelaf.github.io/blog/workflow/</loc>
+    <lastmod>2020-11-10T08:22:03-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://odelaf.github.io/</loc>
-    <lastmod>2020-10-12T18:55:09-03:00</lastmod>
+    <lastmod>2020-11-10T08:22:03-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -48,13 +48,8 @@
   </url>
   
   <url>
-    <loc>https://odelaf.github.io/tags/proceso-constituyente/</loc>
-    <lastmod>2020-10-12T18:55:09-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://odelaf.github.io/tags/</loc>
-    <lastmod>2020-10-12T18:55:09-03:00</lastmod>
+    <lastmod>2020-11-10T08:22:03-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -65,6 +60,21 @@
                 hreflang="en"
                 href="https://odelaf.github.io/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://odelaf.github.io/tags/texto-plano/</loc>
+    <lastmod>2020-11-10T08:22:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://odelaf.github.io/blog/caminos-apruebo/</loc>
+    <lastmod>2020-10-12T18:55:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://odelaf.github.io/tags/proceso-constituyente/</loc>
+    <lastmod>2020-10-12T18:55:09-03:00</lastmod>
   </url>
   
   <url>
